@@ -1,0 +1,9 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="苏州新闻综合" tvg-logo="https://live.fanmingming.com/tv/苏州新闻综合.png",苏州新闻综合
+https://liveshowbak2.kan0512.com/norecord/tv_csztv1.m3u8
+#EXTINF:-1 tvg-name="苏州社会经济" tvg-logo="https://live.fanmingming.com/tv/苏州社会经济.png",苏州社会经济
+https://liveshowbak2.kan0512.com/norecord/tv_csztv2.m3u8
+#EXTINF:-1 tvg-name="苏州文化生活" tvg-logo="https://live.fanmingming.com/tv/苏州文化生活.png",苏州文化生活
+https://liveshowbak2.kan0512.com/norecord/tv_csztv3.m3u8
+#EXTINF:-1 tvg-name="苏州生活资讯" tvg-logo="https://live.fanmingming.com/tv/苏州生活资讯.png",苏州生活资讯
+https://liveshowbak2.kan0512.com/norecord/tv_csztv5.m3u8
