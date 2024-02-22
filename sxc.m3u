@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="苏州新闻综合" tvg-logo="https://live.fanmingming.com/tv/苏州新闻综合.png",苏州新闻综合
 https://liveshowbak2.kan0512.com/norecord/tv_csztv1.m3u8
-#EXTINF:-1 tvg-name="苏州社会经济" tvg-logo="https://live.fanmingming.com/tv/苏州社会经济.png",苏州社会经济
-https://liveshowbak2.kan0512.com/norecord/tv_csztv2.m3u8
-#EXTINF:-1 tvg-name="苏州文化生活" tvg-logo="https://live.fanmingming.com/tv/苏州文化生活.png",苏州文化生活
-https://liveshowbak2.kan0512.com/norecord/tv_csztv3.m3u8
-#EXTINF:-1 tvg-name="苏州生活资讯" tvg-logo="https://live.fanmingming.com/tv/苏州生活资讯.png",苏州生活资讯
-https://liveshowbak2.kan0512.com/norecord/tv_csztv5.m3u8
 #EXTM3U x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml,https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="A01" tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png" group-title="央视高清",CCTV-1 综合
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
